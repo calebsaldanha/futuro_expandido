@@ -1,5 +1,3 @@
-Claro! Aqui está uma descrição apaixonante para o projeto:
-
 ---
 
 # Futuro Expandido
@@ -84,5 +82,3 @@ Desenvolvido por Caleb Works. Para mais informações e para compartilhar sua ex
 Obrigado por visitar o **Futuro Expandido**! Esperamos que sua jornada pelo universo dos dados seja tão emocionante quanto a nossa.
 
 --- 
-
-Espero que essa descrição transmita a paixão e o entusiasmo pelo projeto!
