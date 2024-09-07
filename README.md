@@ -68,9 +68,6 @@ Os dados que alimentam nossa plataforma são extraídos de fontes confiáveis e 
 
 Se você está interessado em colaborar e contribuir para o **Futuro Expandido**, sinta-se à vontade para abrir issues e pull requests. Estamos sempre em busca de melhorias e novas ideias!
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT, permitindo que todos se beneficiem e contribuam para o crescimento da plataforma.
 
 ## Contato
 
