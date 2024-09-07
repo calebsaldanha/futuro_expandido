@@ -65,7 +65,9 @@ Este projeto é licenciado sob a Licença MIT, permitindo que a magia do Futuro 
 Contato
 Desenvolvido por Caleb Works. Para mais informações e para compartilhar sua experiência, entre em contato pelo e-mail: calebsaldanhawork@gmail.com.
 
-Links Úteis
-Visite o Site
-Perfil no LinkedIn
-Obrigado por visitar o Futuro Expandido! Esperamos que sua jornada pelo universo dos dados seja tão emocionante quanto a nossa.
+## Links Úteis
+
+[Visite o Site](https://futuro-expandido.vercel.app/)
+[Perfil no LinkedIn](https://www.linkedin.com/in/mariana-saldanha-9a704119b)
+
+Obrigado por visitar o **Futuro Expandido**! Esperamos que sua jornada pelo universo dos dados seja tão emocionante quanto a nossa.
