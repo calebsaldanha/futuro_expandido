@@ -46,39 +46,26 @@ Embora não fornecido aqui, o CSS é a alma do design visual da nossa página. E
    ```bash
    git clone <URL do repositório>
    cd <nome-do-repositório>
-   ```
+Abra o Arquivo HTML: Abra o arquivo index.html em seu navegador e permita-se explorar.
 
-2. **Abra o Arquivo HTML**:
-   Abra o arquivo `index.html` em seu navegador e permita-se explorar.
+Explore a Funcionalidade:
 
-3. **Explore a Funcionalidade**:
-   - Use a caixa de pesquisa para descobrir temas fascinantes.
-   - Clique no botão "Mostrar Detalhes" para revelar informações valiosas.
-   - Utilize a tecla Enter para uma busca rápida e eficiente.
+Use a caixa de pesquisa para descobrir temas fascinantes.
+Clique no botão "Mostrar Detalhes" para revelar informações valiosas.
+Utilize a tecla Enter para uma busca rápida e eficiente.
+Dados
+Os dados que alimentam nossa aplicação são mais do que simples informações; eles são a matéria-prima de um aprendizado profundo. O arquivo dados.js contém um tesouro de temas e categorias, apresentados de maneira que iluminam e esclarecem.
 
-## Dados
+Contribuições
+Se você compartilha nossa paixão por Ciência de Dados e deseja colaborar, ficaremos encantados em tê-lo a bordo!
 
-Os dados que alimentam nossa aplicação são mais do que simples informações; eles são a matéria-prima de um aprendizado profundo. O arquivo `dados.js` contém um tesouro de temas e categorias, apresentados de maneira que iluminam e esclarecem.
+Licença
+Este projeto é licenciado sob a Licença MIT, permitindo que a magia do Futuro Expandido continue a crescer e evoluir com o tempo.
 
-## Contribuições
+Contato
+Desenvolvido por Caleb Works. Para mais informações e para compartilhar sua experiência, entre em contato pelo e-mail: calebsaldanhawork@gmail.com.
 
-Se você compartilha nossa paixão por Ciência de Dados e deseja colaborar, ficaremos encantados em tê-lo a bordo! 
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT, permitindo que a magia do **Futuro Expandido** continue a crescer e evoluir com o tempo.
-
-## Contato
-
-Desenvolvido por Caleb Works. Para mais informações e para compartilhar sua experiência, entre em contato pelo e-mail: [calebsaldanhawork@gmail.com](mailto:calebsaldanhawork@gmail.com).
-
-## Links Úteis
-
-- [Visite o Site](https://futuro-expandido.vercel.app/)
-- [Perfil no LinkedIn](https://www.linkedin.com/in/mariana-saldanha-9a704119b)
-
----
-
-Obrigado por visitar o **Futuro Expandido**! Esperamos que sua jornada pelo universo dos dados seja tão emocionante quanto a nossa.
-
---- 
+Links Úteis
+Visite o Site
+Perfil no LinkedIn
+Obrigado por visitar o Futuro Expandido! Esperamos que sua jornada pelo universo dos dados seja tão emocionante quanto a nossa.
